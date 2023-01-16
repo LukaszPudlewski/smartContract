@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LukaszPudlewski/smartContract/issues"
   },
-  "homepage": "https://github.com/LukaszPudlewski/smartContract#readme"
+  "homepage": "https://github.com/LukaszPudlewski/smartContract#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.6"
+  }
 }
