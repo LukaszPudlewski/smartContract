@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/LukaszPudlewski/smartContract#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "ethers": "^5.0.0",
     "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "alchemy-sdk": "^2.3.0",
+    "dotenv": "^16.0.3"
   }
 }
